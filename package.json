@@ -25,5 +25,12 @@
     "gulp-rename": "^2.0.0",
     "gulp-sass": "^5.0.0",
     "sass": "^1.38.1"
-  }
+  },
+
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "not dead",
+    "maintained node versions"
+  ]
 }
