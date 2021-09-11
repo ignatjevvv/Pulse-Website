@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Museo Sans';
+    font-family: 'Museo Sans Cyrl';
     src: url('../fonts/MuseoSansCyrl-100.eot');
     src: url('../fonts/MuseoSansCyrl-100.eot?#iefix') format('embedded-opentype'),
     url('../fonts/MuseoSansCyrl-100.woff') format('woff'),
@@ -9,7 +9,7 @@
 }
 
 @font-face {
-    font-family: 'Museo Sans';
+    font-family: 'Museo Sans Cyrl';
     src: url('../fonts/MuseoSansCyrl-300.eot');
     src: url('../fonts/MuseoSansCyrl-300.eot?#iefix') format('embedded-opentype'),
     url('../fonts/MuseoSansCyrl-300.woff') format('woff'),
@@ -19,7 +19,7 @@
 }
 
 @font-face {
-    font-family: 'Museo Sans';
+    font-family: 'Museo Sans Cyrl';
     src: url('../fonts/MuseoSansCyrl-500.eot');
     src: url('../fonts/MuseoSansCyrl-500.eot?#iefix') format('embedded-opentype'),
     url('../fonts/MuseoSansCyrl-500.woff') format('woff'),
@@ -29,7 +29,7 @@
 }
 
 @font-face {
-    font-family: 'Museo Sans';
+    font-family: 'Museo Sans Cyrl';
     src: url('../fonts/MuseoSansCyrl-700.eot');
     src: url('../fonts/MuseoSansCyrl-700.eot?#iefix') format('embedded-opentype'),
     url('../fonts/MuseoSansCyrl-700.woff') format('woff'),
