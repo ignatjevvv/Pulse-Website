@@ -1,0 +1,37 @@
+.feedback {
+    padding-bottom: 50px;
+    &__wrapper {
+        margin-top: 60px;
+    }
+    &-item {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 60px;
+        &__descr {
+            padding: 0 60px;
+        }
+        &__title {
+            font-weight: 700;
+            font-size: 18px;
+            color: #0D0D0D;
+        }
+        &__achieving {
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 22px;
+            color: #646464;
+            margin-bottom: 10px;
+        }
+        &__comment {
+            font-weight: 300;
+            font-size: 16px;
+            line-height: 25px;
+            color: #0D0D0D;
+            br {
+                content: " ";
+                display: block;
+                margin: 15px;
+            }
+        }
+    }
+}
