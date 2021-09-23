@@ -8,6 +8,18 @@
     font-weight: 500;
     color: #FFFFFF;
     text-transform: uppercase;
+    &:hover {
+        border: 1.5px solid;
+        border-color: $main_colors;
+        color: #fff;
+        background-color: #c7010171;
+        // transition: background-color 200ms linear;
+        transition: background-color .3s ease-in-out;
+    }
+    &:active {
+        background-color: $main_colors;
+        color: #FFFFFF;
+    }
     &_main {
         margin-top: 67px;
         width: 300px;
@@ -24,5 +36,13 @@
         width: 131px;
         height: 40px;
         font-size: 14px;
+        &:hover {
+            border: 1.5px solid;
+            border-color: $main_colors;
+            color: #000;
+            background-color: #ffffff;
+            // transition: background-color 200ms linear;
+            transition: background-color .3s ease-in-out;
+        }
     }
 }
